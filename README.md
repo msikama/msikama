@@ -2,7 +2,7 @@
 
 🎯 **Objetivo:** Analista de Sistemas Sênior / Consultor  
 📍 São Paulo - SP  
-✉️ marcio@sikama.net | ☎️ (11) 99909-4479  
+✉️ marcio@sikama.com.br | ☎️ (11) 99909-4479  
 [LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-sikama-0054b9/) • [GitHub](https://github.com/msikama)
 
 ---
