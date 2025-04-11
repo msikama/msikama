@@ -1,19 +1,6 @@
 # 📦 Marcio Shigueru Sikama
 
-Banco de Dados
-	Oracle
-	MSSQL Server
-	MySQL
-	SQL400 	
-
-Linguagens de Programação.
-	ASP Classic
-	.Net C# e VB
-	PHP
-	Conhecimento em C.
-	Conhecimento em Java – JSP e SERVLET
-	ASSET
-	Engenheiro/Desenvolvedor RPG400
+- 🔭 I’m currently working on ...
 
 
 
