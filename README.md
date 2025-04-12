@@ -55,6 +55,8 @@ Empresas: *Elly Lilly, Apoio Consultoria, Roche, Boehringer, SSA*
 
 ## 🎓 Formação Acadêmica
 
+- 🎓 **Pós-Graduação em INTELIGENCIA ARTIFICIAL E CIENCIA DE DADOS**  
+  Universidade São Judas – Cursando  
 - 🎓 **Pós-Graduação em Gerenciamento de Projetos em TI**  
   Centro Universitário Claretiano – 2015  
 - 🎓 **Pós-Graduação em Plataforma Web**  
