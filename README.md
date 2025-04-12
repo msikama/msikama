@@ -68,7 +68,7 @@ Empresas: *Elly Lilly, Apoio Consultoria, Roche, Boehringer, SSA*
 
 ## 🌐 Idiomas
 
-- **Inglês:** Intermediário B2
+- **Inglês:** Nível B2
 
 ---
 
