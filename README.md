@@ -34,8 +34,8 @@ Amplo domínio em ambientes **AS/400**, desenvolvimento com **RPG400, C#, VB.NET
 
 ### Pfizer (via Luandre) — *Ago/2005 – Atual*  
 **Analista de Sistemas / Consultor**
-- Integração GitHub x SonarQube (nível global)  
-- Desenvolvimento de automações com Power Automate (LATAM)  
+- Integração GitHub x SonarQube (Global)  
+- Desenvolvimento de automações com Power Automate (Latino América)  
 - Criação de rotinas em Excel com VBA  
 - Suporte ao SAP e intermediação com equipe global  
 - Suporte aos sistemas SUM SYSTEM e processos de faturamento  
