@@ -1,6 +1,6 @@
 # 👨‍💼 Marcio Sikama
 
-🎯 **Objetivo:** Analista de Sistemas Sênior / Consultor  
+🎯 **Objetivo:** Analista de Sistemas Sênior  
 📍 São Paulo - SP  
 ✉️ marcio@sikama.com.br | ☎️ +55 11 99909-4479  
 🔗 [LinkedIn](https://linkedin.com/in/marciosikama) | [GitHub](https://github.com/marciosikama)
