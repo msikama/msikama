@@ -1,50 +1,42 @@
-# 👨‍💼 Marcio Sikama 
+# 👨‍💼 Marcio Sikama
 
 🎯 **Objetivo:** Analista de Sistemas Sênior / Consultor  
 📍 São Paulo - SP  
-✉️ marcio@sikama.com.br | ☎️ + 55 11 99909-4479  
-[LinkedIn](https://www.linkedin.com/in/m%C3%A1rcio-sikama-0054b9/) • [GitHub](https://github.com/msikama)
+✉️ marcio@sikama.com.br | ☎️ +55 11 99909-4479  
+🔗 [LinkedIn](https://linkedin.com/in/marciosikama) | [GitHub](https://github.com/marciosikama)
 
 ---
 
 ## 🧾 Resumo Profissional
 
-Profissional com sólida experiência na área de **Suporte a Sistemas**, **automação de processos** e **desenvolvimento de soluções corporativas**, atuando em empresas multinacionais como **Pfizer, Elly Lilly, Roche, Boehringer e SSA**.
+Profissional com sólida experiência em Suporte a Sistemas, automação de processos e desenvolvimento de soluções corporativas. Atuação destacada em empresas multinacionais como Pfizer, Elly Lilly, Roche, Boehringer e SSA. Mais de 20 anos de experiência na área.
 
-Amplo domínio em ambientes **AS/400**, desenvolvimento com **RPG400, C#, VB.NET, VBA**, e automações com **Power Automate**. Forte atuação em integração de sistemas e suporte técnico com foco na excelência operacional.
+Amplo domínio em ambientes AS/400, desenvolvimento com RPG400, C#, VB.NET, VBA e automações via Power Automate. Forte atuação em integração de sistemas e suporte técnico com foco na excelência operacional.
 
 ---
 
 ## 🛠️ Competências Técnicas
 
-**Linguagens de Programação:**  
-- C#, VB.NET (.NET - Windows e Web Forms), ASP Classic  
-- PHP, Java (JSP/Servlet), C, VBA, RPG400  
-
-**Bancos de Dados:**  
-- Oracle, MS SQL Server, SQL400, MySQL, DB2, Access, dBase  
-
-**Plataformas e Ferramentas:**  
-- Power Automate, Excel VBA, GitHub, SonarQube  
-- ASSET (AS/400), JDE, SAP, BPCS, CLIPRO  
+- **Linguagens:** C#, VB.NET, ASP Classic, PHP, VBA, RPG400  
+- **Bancos de Dados:** Oracle, SQL Server, SQL400, MySQL, DB2  
+- **Ferramentas & Plataformas:** Power Automate, Excel VBA, GitHub, SonarQube, ASSET (AS/400)  
+- **ERPs & Sistemas:** JDE, SAP, BPCS, CLIPRO
 
 ---
 
 ## 💼 Experiência Profissional
 
-### Pfizer (via Luandre) — *Ago/2005 – Atual*  
-**Analista de Sistemas / Consultor**
-- Integração GitHub x SonarQube (Global)  
-- Desenvolvimento de automações com Power Automate (Latino América)  
-- Criação de rotinas em Excel com VBA  
-- Suporte ao SAP e intermediação com equipe global  
+### Pfizer (via Luandre) — Ago/2005 – Atual
+
+- Desenvolver automações com Power Automate para integração de processos na América Latina  
+- Criar rotinas e dashboards em Excel, automatizando planilhas com VBA  
+- Intermediar suporte ao SAP com equipe global  
 - Suporte aos sistemas SUM SYSTEM e processos de faturamento  
+- Integração GitHub x SonarQube (escopo global)
 
----
+### Consultorias anteriores — 1994 – 2005  
+**Empresas:** Elly Lilly, Apoio Consultoria, Roche, Boehringer, SSA
 
-### Consultorias anteriores — *1994 – 2005*  
-**Consultor de Sistemas**  
-Empresas: *Elly Lilly, Apoio Consultoria, Roche, Boehringer, SSA*  
 - Desenvolvimento e manutenção com ASSET e RPG400  
 - Gestão de módulos do ERP BPCS (BCP, BCR, GLD)  
 - Desenvolvimento em VB6, ASP, PHP, VBA e Excel  
@@ -55,20 +47,16 @@ Empresas: *Elly Lilly, Apoio Consultoria, Roche, Boehringer, SSA*
 
 ## 🎓 Formação Acadêmica
 
-- 🎓 **Pós-Graduação em Inteligência Artificial e Ciência de Dados**  
-  Universidade São Judas – Cursando  
-- 🎓 **Pós-Graduação em Gerenciamento de Projetos em TI**  
-  Centro Universitário Claretiano – 2015  
-- 🎓 **Pós-Graduação em Plataforma Web**  
-  Centro Universitário Claretiano – 2014  
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
-  Centro Universitário Claretiano – 2012  
+- Pós-Graduação em Inteligência Artificial e Ciência de Dados – Universidade São Judas – *Cursando*  
+- Pós-Graduação em Gerenciamento de Projetos em TI – Centro Universitário Claretiano – 2015  
+- Pós-Graduação em Plataforma Web – Centro Universitário Claretiano – 2014  
+- Tecnólogo em Análise e Desenvolvimento de Sistemas – Centro Universitário Claretiano – 2012
 
 ---
 
 ## 🌐 Idiomas
 
-- **Inglês:** Nível B2
+- Inglês: Nível B2 (Intermediário-Avançado) – leitura técnica fluente
 
 ---
 
@@ -76,6 +64,4 @@ Empresas: *Elly Lilly, Apoio Consultoria, Roche, Boehringer, SSA*
 
 - Experiência com times e projetos globais  
 - Perfil técnico com foco em negócios e automação  
-- Comunicação clara com áreas técnicas e usuários finais  
-
----
+- Comunicação clara com áreas técnicas e usuários finais
