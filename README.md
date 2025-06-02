@@ -26,7 +26,7 @@ Amplo domínio em ambientes AS/400, desenvolvimento com RPG400, C#, VB.NET, VBA 
 
 ## 💼 Experiência Profissional
 
-### Pfizer (via Luandre) — Ago/2005 – Atual
+### Pfizer (CLT-Luandre) — Ago/2005 – Jun/2025
 
 - Desenvolver automações com Power Automate para integração de processos na América Latina  
 - Criar rotinas e dashboards em Excel, automatizando planilhas com VBA  
